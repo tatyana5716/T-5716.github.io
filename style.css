@@ -21,6 +21,7 @@ body {
     text-align: center;
     font-size: 25px;
   }
-  img {
-     Font-size: 2px;
+ img: {
+    width: 250px;
+    height: 300px;
   }
